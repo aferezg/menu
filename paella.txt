@@ -1,6 +1,8 @@
 arroz
 pollo
-pimiento
+pimiento rojo
+pimiento verde
 agua
 sal
 calamares
+gambas
